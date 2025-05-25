@@ -28,5 +28,6 @@
 - 📦 Easily portable for fresh Arch installs
 
 ---
+![Rice](assets/2025-05-26-003238_1920x1080_scrot.png)
 
 
