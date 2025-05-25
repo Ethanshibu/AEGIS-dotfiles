@@ -1,0 +1,15 @@
+
+
+[cpu_bar]
+command=./cpu_bar.sh
+interval=1
+
+# Guess the weather hourly
+[weather]
+command=./weather.sh
+interval=3600
+
+# Update time every 1 second
+[time]
+command=date +%T
+interval=1
