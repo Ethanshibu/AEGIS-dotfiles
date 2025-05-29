@@ -1,6 +1,5 @@
-# ✨ AEGIS Dotfiles — My Custom Arch Linux Setup
+# ✨ AEGIS Dotfiles — My Arch Linux Setup
 
-> **"Simple. Clean. Fast."**
 ![Rice](assets/2025-05-26-003238_1920x1080_scrot.png)
 ---
 
