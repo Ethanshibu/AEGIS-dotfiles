@@ -19,8 +19,6 @@
 
 ## 📁 Features
 
-- 🔧 Modular configs (each component lives in its own directory)
-- 🎯 Lightweight & responsive i3 setup
 - 🌓 Subtle transparency and shadow via Picom
 - 🎨 Nerd fonts for beautiful icons & glyphs
 - 🐚 Zsh with productivity plugins and clean theme
